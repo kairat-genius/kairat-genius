@@ -20,3 +20,8 @@ Front-end
 <img src="https://img.shields.io/badge/javascript-gold?style=for-the-badge&logo=javascript&logoColor=black"/>
  <img src="https://img.shields.io/badge/figma-lightyellow?style=for-the-badge&logo=figma&logoColor=black"/>
 
+Tools
+
+<img src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=red"/>  <img src="https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-gold?style=for-the-badge&logo=javascript&logoColor=black"/>
+ <img src="https://img.shields.io/badge/figma-lightyellow?style=for-the-badge&logo=figma&logoColor=black"/>
