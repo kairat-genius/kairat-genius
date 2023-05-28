@@ -1,7 +1,7 @@
 Hi there 👋 I'm Back-End developer
 <hr>
 social network
-<a src="https://t.me/pythonpublics"><img src="https://img.shields.io/badge/telegram?style=for-the-badge&logo=telegram&logoColor=blue"/><a/>
+<a href="https://t.me/pythonpublics"><img src="https://img.shields.io/badge/telegram?style=for-the-badge&logo=telegram&logoColor=blue"/><a/>
 
 <hr>
 Technology stack
