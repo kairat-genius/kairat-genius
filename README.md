@@ -11,4 +11,4 @@ Back-end
 
 Databases
 
-<img src="https://img.shields.io/badge/MySql-black?style=for-the-badge&logo=MySql&logoColor=blue"/>  <img src="https://img.shields.io/badge/Django-limegreen?style=for-the-badge&logo=Django&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySql-blue?style=for-the-badge&logo=MySql&logoColor=white"/>  <img src="https://img.shields.io/badge/Django-limegreen?style=for-the-badge&logo=Django&logoColor=white"/>
