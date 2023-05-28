@@ -1,5 +1,8 @@
 Hi there 👋 I'm Back-End developer
-<hr style=border-top: 1px solid>
+<style type="text/css">hr { 
+    border-top: 1px;
+   }</style>
+<hr>
 Technology stack
 <hr>
 <img src="https://raw.githubusercontent.com/DJWOMS/DJWOMS/main/code.gif">
