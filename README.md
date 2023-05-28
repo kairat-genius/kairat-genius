@@ -12,7 +12,7 @@ Back-end
 
 Databases
 
-<img src="https://img.shields.io/badge/MySql-blue?style=for-the-badge&logo=MySql&logoColor=white"/>  <img src="https://img.shields.io/badge/sqlite-white?style=for-the-badge&logo=sqlite&logoColor=003B57"/>
+<img src="https://img.shields.io/badge/MySql-blue?style=for-the-badge&logo=MySql&logoColor=white"/>  <img src="https://img.shields.io/badge/sqlite-deepskyblue?style=for-the-badge&logo=sqlite&logoColor=003B57"/>
 
 Front-end
 
