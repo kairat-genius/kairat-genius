@@ -1,6 +1,7 @@
 Hi there 👋 I'm Back-End developer
 
 Technology stack
+<img src="https://raw.githubusercontent.com/DJWOMS/DJWOMS/main/code.gif">
 
 Back-end
 
