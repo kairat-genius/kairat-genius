@@ -1,16 +1,37 @@
-### Hi there 👋
+Всем привет👋Я Full-Stack разработчик
+YouTubeРаздорLinkedIN
+Телеграмма
+ Мой канал Django FastAPI Masonite
 
-<!--
-**kairat-genius/kairat-genius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+Стек технологий
+гифка
+
+Серверная часть
+
+питон Джанго Джанго Рест Фреймворк Каналы Джанго DCRF Джанго Ниндзя FastAPI Колба масонит ОРМАР SqlAlchemy Сельдерей
+
+Базы данных
+
+PostgreSQL Редис
+
+Внешний интерфейс
+
+JavaScript Машинопись Реагировать Vue.js Угловой HTML5 CSS3 TailwindCss
+
+Инструменты
+
+Докер IntelliJ Почтальон
+
+линукс Гит Гитхаб GitLab
+
+Обучение
+
+Рсут Идти С#
+
+𝗦𝘁𝗮𝘁𝘀
+Статистика DJWOMS на гитхабе DJWOMS Языки
