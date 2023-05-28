@@ -1,7 +1,7 @@
 Hi there 👋 I'm Back-End developer
 <hr>
 social network
-<img src="https://img.shields.io/badge/?style=for-the-badge&logo=telegram&logoColor=blue"/>
+<img src="https://img.shields.io/badge/telegram?style=for-the-badge&logo=telegram&logoColor=blue"/>
 
 <hr>
 Technology stack
