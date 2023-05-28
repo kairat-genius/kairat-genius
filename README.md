@@ -4,18 +4,16 @@
 <h2>
   social network
  </h2>
-<a href="https://t.me/pythonpublics"><a/>
- 
  <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://t.me/pythonpublics">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://www.tiktok.com/@kaidis_developer">
     <img src="https://img.shields.io/badge/Tiktok-black?style=for-the-badge&logo=Tiktok&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -24,7 +22,7 @@
  <h2>
 Technology stack
   </h2>
-<img src="https://raw.githubusercontent.com/DJWOMS/DJWOMS/main/code.gif">
+<img src="https://raw.githubusercontent.com/DJWOMS/DJWOMS/main/code.gif" width="100">
 
 <h3>Back-end</h3>
 
