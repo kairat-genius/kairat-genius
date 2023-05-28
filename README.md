@@ -23,7 +23,7 @@
 Technology stack
   </h2>
 
-<div id="img"><h3>Back-end</h3>
+<div><h3>Back-end</h3>
 
 <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=blue"/>  <img src="https://img.shields.io/badge/Django-limegreen?style=for-the-badge&logo=Django&logoColor=white"/>
 <img src="https://img.shields.io/badge/jinja-deepskyblue?style=for-the-badge&logo=jinja&logoColor=white"/>
@@ -42,4 +42,4 @@ Technology stack
 
 <img src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=red"/>  <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/postman-orange?style=for-the-badge&logo=postman&logoColor=white"/>
- <img src="https://img.shields.io/badge/pycharm-greenyellow?style=for-the-badge&logo=pycharm&logoColor=black"/></div><img src="https://raw.githubusercontent.com/DJWOMS/DJWOMS/main/code.gif" width="400">
+ <img src="https://img.shields.io/badge/pycharm-greenyellow?style=for-the-badge&logo=pycharm&logoColor=black"/></div><img src="https://raw.githubusercontent.com/DJWOMS/DJWOMS/main/code.gif" width="300">
