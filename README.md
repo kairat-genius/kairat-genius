@@ -22,7 +22,7 @@
  <h2>
 Technology stack
   </h2>
-<img src="https://raw.githubusercontent.com/DJWOMS/DJWOMS/main/code.gif" width="100">
+<img src="https://raw.githubusercontent.com/DJWOMS/DJWOMS/main/code.gif" width="400">
 
 <h3>Back-end</h3>
 
