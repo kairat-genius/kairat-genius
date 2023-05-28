@@ -15,5 +15,4 @@ Databases
 
 Front-end
 
-<img src="https://img.shields.io/badge/Html5-white?style=for-the-badge&logo=Html5&logoColor=red"/>  <img src="https://img.shields.io/badge/Sql-limegreen?style=for-the-badge&logo=Sql&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Html5-red?style=for-the-badge&logo=Html5&logoColor=white"/>  <img src="https://img.shields.io/badge/Css-blue?style=for-the-badge&logo=Css&logoColor=white"/> 
