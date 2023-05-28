@@ -12,3 +12,8 @@ Back-end
 Databases
 
 <img src="https://img.shields.io/badge/MySql-blue?style=for-the-badge&logo=MySql&logoColor=white"/>  <img src="https://img.shields.io/badge/Sql-limegreen?style=for-the-badge&logo=Sql&logoColor=white"/>
+
+Front-end
+
+<img src="https://img.shields.io/badge/Html5-white?style=for-the-badge&logo=Html5&logoColor=red"/>  <img src="https://img.shields.io/badge/Sql-limegreen?style=for-the-badge&logo=Sql&logoColor=white"/>
+
