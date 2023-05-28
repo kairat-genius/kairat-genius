@@ -28,3 +28,8 @@ Tools
 <img src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=red"/>  <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/postman-orange?style=for-the-badge&logo=postman&logoColor=white"/>
  <img src="https://img.shields.io/badge/pycharm-greenyellow?style=for-the-badge&logo=pycharm&logoColor=black"/>
+ 
+ <h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
