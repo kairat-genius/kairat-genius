@@ -23,7 +23,7 @@
 Technology stack
   </h2>
 
-<div><h3>Back-end</h3>
+<div id="img"><h3>Back-end</h3>
 
 <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=blue"/>  <img src="https://img.shields.io/badge/Django-limegreen?style=for-the-badge&logo=Django&logoColor=white"/>
 <img src="https://img.shields.io/badge/jinja-deepskyblue?style=for-the-badge&logo=jinja&logoColor=white"/>
