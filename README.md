@@ -1,4 +1,6 @@
-Hi there 👋 I'm Back-End developer
+ <h1>
+  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Back-End developer
+</h1>
 <hr>
 social network
 <a href="https://t.me/pythonpublics"><img src="https://img.shields.io/badge/telegram?style=for-the-badge&logo=telegram&logoColor=blue"/><a/>
