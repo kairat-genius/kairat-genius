@@ -24,4 +24,4 @@ Tools
 
 <img src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=red"/>  <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/postman-orange?style=for-the-badge&logo=postman&logoColor=white"/>
- <img src="https://img.shields.io/badge/figma-lightyellow?style=for-the-badge&logo=figma&logoColor=black"/>
+ <img src="https://img.shields.io/badge/pycharm-yellow?style=for-the-badge&logo=pycharm&logoColor=black"/>
