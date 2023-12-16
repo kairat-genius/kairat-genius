@@ -27,7 +27,7 @@ Technology stack
 <h3>Back-end</h3>
 
 <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=blue"/>  <img src="https://img.shields.io/badge/Django-limegreen?style=for-the-badge&logo=Django&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Flask-limegreen?style=for-the-badge&logo=Flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-white?style=for-the-badge&logo=Flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/jinja-deepskyblue?style=for-the-badge&logo=jinja&logoColor=white"/>
 
 <h3>Databases</h3>
