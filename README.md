@@ -29,7 +29,7 @@ Technology stack
 <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=blue"/>  <img src="https://img.shields.io/badge/Django-limegreen?style=for-the-badge&logo=Django&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Flask-white?style=for-the-badge&logo=Flask&logoColor=black"/>
 <img src="https://img.shields.io/badge/jinja-deepskyblue?style=for-the-badge&logo=jinja&logoColor=white"/>
-<img src="https://img.shields.io/badge/fastapi-deepskyblue?style=for-the-badge&logo=fastapi&logoColor=#ffffff"/>
+<img src="https://img.shields.io/badge/fastapi-white?style=for-the-badge&logo=fastapi&logoColor=#ffffff"/>
 
 <h3>Databases</h3>
 
