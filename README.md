@@ -31,6 +31,7 @@ Technology stack
 <img src="https://img.shields.io/badge/jinja-deepskyblue?style=for-the-badge&logo=jinja&logoColor=white"/>
 <img src="https://img.shields.io/badge/fastapi-white?style=for-the-badge&logo=fastapi&logoColor=green"/>
 
+
 <h3>Databases</h3>
 
 <img src="https://img.shields.io/badge/MySql-blue?style=for-the-badge&logo=MySql&logoColor=white"/>  <img src="https://img.shields.io/badge/sqlite-deepskyblue?style=for-the-badge&logo=sqlite&logoColor=003B57"/>
