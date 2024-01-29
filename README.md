@@ -41,10 +41,11 @@ Technology stack
 <img src="https://img.shields.io/badge/Html5-red?style=for-the-badge&logo=Html5&logoColor=white"/>  <img src="https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-gold?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/figma-lightyellow?style=for-the-badge&logo=figma&logoColor=black"/>
-<img src="https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=blue"/>
+<img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=gold"/>
 
 <h3>Tools</h3>
 
 <img src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=red"/>  <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/postman-orange?style=for-the-badge&logo=postman&logoColor=white"/>
  <img src="https://img.shields.io/badge/pycharm-greenyellow?style=for-the-badge&logo=pycharm&logoColor=black"/>
+<img src="https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=blue"/>
