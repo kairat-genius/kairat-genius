@@ -35,7 +35,7 @@ Technology stack
 <h3>Databases</h3>
 
 <img src="https://img.shields.io/badge/MySql-blue?style=for-the-badge&logo=MySql&logoColor=white"/>  <img src="https://img.shields.io/badge/sqlite-deepskyblue?style=for-the-badge&logo=sqlite&logoColor=003B57"/>
-<img src="https://img.shields.io/badge/postgresql-write?style=for-the-badge&logo=postgresql&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/postgresql-blue?style=for-the-badge&logo=postgresql&logoColor=FFFFFF"/>
 
 <h3>Front-end</h3>
 
