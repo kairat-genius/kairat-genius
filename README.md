@@ -51,4 +51,4 @@ Technology stack
 <img src="https://img.shields.io/badge/postman-orange?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/pycharm-greenyellow?style=for-the-badge&logo=pycharm&logoColor=black"/>
 <img src="https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=#1D63ED"/>
-<img src="https://img.shields.io/badge/sqlalchemy?style=for-the-badge&logo=sqlalchemy&logoColor"/>
+<img src="https://img.shields.io/badge/sqlalchemy-FFFFF?style=for-the-badge&logo=sqlalchemy&logoColor=FFFFF"/>
