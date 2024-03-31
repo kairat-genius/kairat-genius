@@ -45,10 +45,12 @@ Technology stack
 <img src="https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&logoColor=#1D63ED"/>
 
 
+
 <h3>Tools</h3>
 
 <img src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=red"/>  <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/postman-orange?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/pycharm-greenyellow?style=for-the-badge&logo=pycharm&logoColor=black"/>
 <img src="https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=#1D63ED"/>
+<img src="https://img.shields.io/badge/redis-red?style=for-the-badge&logo=redis&logoColor=#1D63ED"/>
 
