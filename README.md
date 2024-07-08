@@ -31,6 +31,7 @@ Technology stack
 <img src="https://img.shields.io/badge/Flask-white?style=for-the-badge&logo=Flask&logoColor=black"/>
 <img src="https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black"/>
 <img src="https://img.shields.io/badge/fastapi-white?style=for-the-badge&logo=fastapi&logoColor=green"/>
+<img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
 
 
 <h3>Databases</h3>
