@@ -53,6 +53,6 @@ Technology stack
 <img src="https://img.shields.io/badge/pycharm-greenyellow?style=for-the-badge&logo=pycharm&logoColor=black"/>
 <img src="https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=#1D63ED"/>
 <img src="https://img.shields.io/badge/redis-red?style=for-the-badge&logo=redis&logoColor=white"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Redis_Logo.svg" alt="Redis" width="100" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Redis_Logo.svg" alt="Redis" style="height: 20px; vertical-align: middle;">
 
 
