@@ -26,22 +26,23 @@ Technology stack
 
 <h3>Back-end</h3>
 
-<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=blue"/>  <img src="https://img.shields.io/badge/Django-limegreen?style=for-the-badge&logo=Django&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=blue"/>  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/> 
+<img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"/>
 <img src="https://img.shields.io/badge/Flask-white?style=for-the-badge&logo=Flask&logoColor=black"/>
-<img src="https://img.shields.io/badge/jinja-deepskyblue?style=for-the-badge&logo=jinja&logoColor=white"/>
+<img src="https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black"/>
 <img src="https://img.shields.io/badge/fastapi-white?style=for-the-badge&logo=fastapi&logoColor=green"/>
 
 
 <h3>Databases</h3>
 
-<img src="https://img.shields.io/badge/MySql-blue?style=for-the-badge&logo=MySql&logoColor=white"/>  <img src="https://img.shields.io/badge/sqlite-deepskyblue?style=for-the-badge&logo=sqlite&logoColor=003B57"/>
-<img src="https://img.shields.io/badge/postgresql-blue?style=for-the-badge&logo=postgresql&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/MySql-blue?style=for-the-badge&logo=MySql&logoColor=white"/>  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 <h3>Front-end</h3>
 
 <img src="https://img.shields.io/badge/Html5-red?style=for-the-badge&logo=Html5&logoColor=white"/>  <img src="https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-gold?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/figma-lightyellow?style=for-the-badge&logo=figma&logoColor=black"/>
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&logoColor=#1D63ED"/>
 
 
@@ -53,6 +54,9 @@ Technology stack
 <img src="https://img.shields.io/badge/pycharm-greenyellow?style=for-the-badge&logo=pycharm&logoColor=black"/>
 <img src="https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=#1D63ED"/>
 <img src="https://img.shields.io/badge/redis-red?style=for-the-badge&logo=redis&logoColor=white"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Redis_Logo.svg" alt="Redis" style="height: 20px; vertical-align: middle;">
+<img src="https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4"/>
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
+<img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
+
 
 
