@@ -26,10 +26,10 @@ Technology stack
 
 <h3>Back-end</h3>
 
-<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=blue"/>  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=blue"/>
+<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/> 
 <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"/>
 <img src="https://img.shields.io/badge/Flask-white?style=for-the-badge&logo=Flask&logoColor=black"/>
-<img src="https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black"/>
 <img src="https://img.shields.io/badge/fastapi-white?style=for-the-badge&logo=fastapi&logoColor=green"/>
 <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
 
@@ -48,7 +48,7 @@ Technology stack
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Payload-2C2C2C?style=for-the-badge&logo=node.js&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
 
 <h3>Tools</h3>
 
