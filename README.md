@@ -47,7 +47,7 @@ Technology stack
 <img src="https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&logoColor=#1D63ED"/>
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Payload-2C2C2C?style=for-the-badge&logo=node.js&logoColor=white"/>
 
 
 <h3>Tools</h3>
