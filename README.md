@@ -10,12 +10,6 @@
   <a href="https://t.me/kairat_p">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://www.tiktok.com/@kaidis_developer">
-    <img src="https://img.shields.io/badge/Tiktok-black?style=for-the-badge&logo=Tiktok&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
 </div>
 
